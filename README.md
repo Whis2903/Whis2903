@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-*Sahilopl/Sahilopl* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Whis2903/Whis2903* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -67,16 +67,13 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <h1 align=center>
   
-![](https://github-readme-stats.vercel.app/api?username=Sahilopl&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilopl&theme=transparent&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=SahiloplL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilopl&langs_count=8&theme=transparent" alt="LANG USED" />
+![](https://github-readme-stats.vercel.app/api?username=Whis2903&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Whis2903&theme=transparent&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=Whis2903L&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whis2903l&langs_count=8&theme=transparent" alt="LANG USED" />
 </h1>
 
 
-# Holopin Badges
-[![Holopin](https://holopin.me/sahilopl)](https://holopin.io/@sahilopl)
-#
 
 	
 	
