@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
 ![](https://github-readme-stats.vercel.app/api?username=Whis2903&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whis2903&theme=transparent&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=Whis2903L&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=Whis2903&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whis2903l&langs_count=8&theme=transparent" alt="LANG USED" />
 </h1>
 
