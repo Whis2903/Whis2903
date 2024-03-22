@@ -26,6 +26,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whis2903&label=Profile%20views&color=0e75b6&style=flat" alt="whis2903" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whis2903" alt="whis2903" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whis2903&show_icons=true&locale=en&layout=compact" alt="whis2903" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whis2903&show_icons=true&locale=en" alt="whis2903" /></p>
