@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Mohan Nair</h1>
-<h3 align="center">👋 Hey there! I'm a passionate Student Developer with a love for creating elegant solutions to complex problems. 💻 🚀 My journey in the world of code began 2 years ago, and I've been hooked ever since. I thrive on challenges and enjoy exploring new technologies to expand my skill set. 🌟 Currently, I'm focusing on MERN STACK & AI-ML, where I'm eager to dive deep and make a meaningful impact. From front-end development to back-end architecture, I'm always striving to push the boundaries of what's possible. 🌱 I'm a strong believer in the power of open-source . Whether it's fixing bugs, adding new features, or simply lending a helping hand, I'm committed to giving back to the community that has given me so much. 🔭 Outside of co. I believe in maintaining a healthy work-life balance and find inspiration in exploring new experiences. 📫 Want to collaborate on a project or just chat about all things tech? Feel free to reach out—I'm always up for a good conversation! Let's connect and build something awesome together! 🚀</h3>
+<h3 align="center">👋 Hey there! I'm a passionate Student Developer with a love for creating elegant solutions to complex problems. 
+  💻 🚀 My journey in the world of code began 2 years ago, and I've been hooked ever since. I thrive on challenges and enjoy exploring new technologies to expand my skill set.
+  🌟 Currently, I'm focusing on MERN STACK & AI-ML, where I'm eager to dive deep and make a meaningful impact. From front-end development to back-end architecture, I'm always striving to push the boundaries of what's possible. 
+  🌱 I'm a strong believer in the power of open-source . Whether it's fixing bugs, adding new features, or simply lending a helping hand, I'm committed to giving back to the community that has given me so much. 
+  🔭 Outside of co. I believe in maintaining a healthy work-life balance and find inspiration in exploring new experiences.
+  📫 Want to collaborate on a project or just chat about all things tech? Feel free to reach out—I'm always up for a good conversation! Let's connect and build something awesome together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whis2903&label=Profile%20views&color=0e75b6&style=flat" alt="whis2903" /> </p>
 
