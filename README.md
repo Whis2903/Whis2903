@@ -1,23 +1,38 @@
-<h1 align="center">Hi 👋, I'm Vishal Mohan Nair</h1>
-- Hey there! I'm a passionate Student Developer with a love for creating elegant solutions to complex problems. 
- - 💻 🚀 My journey in the world of code began 2 years ago, and I've been hooked ever since. I thrive on challenges and enjoy exploring new technologies to expand my skill set.
- - 🌟 Currently, I'm focusing on MERN STACK & AI-ML, where I'm eager to dive deep and make a meaningful impact. From front-end development to back-end architecture, I'm always striving to push the boundaries of what's possible. 
- - 🌱 I'm a strong believer in the power of open-source . Whether it's fixing bugs, adding new features, or simply lending a helping hand, I'm committed to giving back to the community that has given me so much. 
-  -🔭 Outside of co.ding I believe in maintaining a healthy work-life balance and find inspiration in exploring new experiences.
- - 📫 Want to collaborate on a project or just chat about all things tech? Feel free to reach out—I'm always up for a good conversation! Let's connect and build something awesome together! 🚀
+<h1 align="center">Hi there 👋, I'm Vishal Mohan Nair</h1>
+
+- Hey there! I'm a passionate Student Developer with a love for creating elegant solutions to complex problems.
+- 💻 🚀 My journey in the world of code began 2 years ago, and I've been hooked ever since. I thrive on challenges and enjoy exploring new technologies to expand my skill set.
+- 🌟 Currently, I'm focusing on MERN STACK & AI-ML, where I'm eager to dive deep and make a meaningful impact. From front-end development to back-end architecture, I'm always striving to push the boundaries of what's possible.
+- 🌱 I'm a strong believer in the power of open-source. Whether it's fixing bugs, adding new features, or simply lending a helping hand, I'm committed to giving back to the community that has given me so much.
+- 🔭 Outside of coding, I believe in maintaining a healthy work-life balance and find inspiration in exploring new experiences.
+- 📫 Want to collaborate on a project or just chat about all things tech? Feel free to reach out—I'm always up for a good conversation! Let's connect and build something awesome together! 🚀
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vishal mohan nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal mohan nair" height="30" width="40" /></a>
+<a href="https://instagram.com/_vishal_nair_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vishal_nair_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishalmadridrox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishalmadridrox" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <!-- Add your icons for languages and tools here -->
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whis2903&label=Profile%20views&color=0e75b6&style=flat" alt="whis2903" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whis2903" alt="whis2903" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whis2903&show_icons=true&locale=en&layout=compact" alt="whis2903" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whis2903&show_icons=true&locale=en" alt="whis2903" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whis2903&" alt="whis2903" /></p>
+
 - 🔭 I’m currently working on **EchoMind**
-
 - 🌱 I’m currently learning **Pytorch, Ultralytics, TypeScript & Tailwind**
-
 - 🤝 I’m looking for help with [Object-Detection-using-YOLOv8-and-Retinanet](https://github.com/Whis2903/Object-Detection-using-YOLOv8-and-Retinanet)
-
 - 📫 How to reach me **vishalmadridrox@gmail.com**
-
 - Current Position **Head of Research & Development at ACM SIGKDD**
 
 <h3 align="left">Connect with me:</h3>
