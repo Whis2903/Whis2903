@@ -17,7 +17,7 @@
    - [Aditya Verma](https://github.com/AdityaVOfficial)
    - [Sahil Adhikari](https://github.com/Sahilopl)
    - [Adityasankar Sengupta](https://github.com/adityasankar5)
-   - [Vishal Mohan Nair]
+   - [Vishal Mohan Nair](https://github.com/Whis2903)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
