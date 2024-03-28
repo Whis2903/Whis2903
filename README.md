@@ -14,10 +14,10 @@
 - 📫 How to reach me **vishalmadridrox@gmail.com**
 - Current Position **Head of Research & Development at ACM SIGKDD**
 -  Part of Team Maveriks. Members are :
-- - [Aditya Verma](https://github.com/AdityaVOfficial)
-- - [Sahil Adhikari](https://github.com/Sahilopl)
--  - [Adityasankar Sengupta](https://github.com/adityasankar5)
--  - [Vishal Mohan Nair]
+ - [Aditya Verma](https://github.com/AdityaVOfficial)
+ - [Sahil Adhikari](https://github.com/Sahilopl)
+  - [Adityasankar Sengupta](https://github.com/adityasankar5)
+  - [Vishal Mohan Nair]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
