@@ -10,7 +10,6 @@ Hey there! I'm a passionate Student Developer with a love for creating elegant s
 
 - 🔭 I’m currently working on **EchoMind**
 - 🌱 I’m currently learning **Pytorch, Ultralytics, TypeScript & Tailwind**
-- 🤝 I’m looking for help with [Object-Detection-using-YOLOv8-and-Retinanet](https://github.com/Whis2903/Object-Detection-using-YOLOv8-and-Retinanet)
 - 📫 How to reach me **vishalmadridrox@gmail.com**
 - Current Position **Head of Research & Development at [ACM SIGKDD SRM](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)**
 -  Part of Team Maveriks Members are :
