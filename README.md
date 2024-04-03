@@ -38,4 +38,3 @@ Hey there! I'm a passionate Student Developer with a love for creating elegant s
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whis2903&" alt="whis2903" /></p>
 
-hi my name is vishal 
