@@ -9,7 +9,7 @@ Hey there! I'm a passionate Student Developer with a love for creating elegant s
 
 
 - 🔭 I’m currently working on **VisonVerse**
-- 🌱 I’m currently learning **Pytorch, Ultralytics, TypeScript & Tailwind**
+- 🌱 I’m currently learning **Pytorch, Ultralytics**
 - 📫 How to reach me **vishalmadridrox@gmail.com**
 - Current Position **Head of Research & Development at [ACM SIGKDD SRM](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)**
 -  Part of Team Maveriks Members are :
