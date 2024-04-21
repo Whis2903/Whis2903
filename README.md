@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vishal Mohan Nair</h1>
+<h1 align="center">Hi there 👋, I am Vishal Mohan Nair</h1>
 
 Hey there! I'm a passionate Student Developer with a love for creating elegant solutions to complex problems.
 - 💻 🚀 My journey in the world of code began 2 years ago, and I've been hooked ever since. I thrive on challenges and enjoy exploring new technologies to expand my skill set.
