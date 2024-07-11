@@ -8,7 +8,7 @@ Hey there! I'm a passionate Student Developer with a love for creating elegant s
 - 📫 Want to collaborate on a project or just chat about all things tech? Feel free to reach out—I'm always up for a good conversation! Let's connect and build something awesome together! 🚀
 
 
-- 🔭 I’m currently working on **VisonVerse**
+- 🔭 I’m currently working on **Text to Image generator **
 - 🌱 I’m currently learning **Pytorch, Ultralytics**
 - 📫 How to reach me **vishalmadridrox@gmail.com**
 - Current Position **Head of Research & Development at [ACM SIGKDD SRM](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)**
